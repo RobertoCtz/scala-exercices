@@ -1,5 +1,5 @@
-# scala-exercices
-Exercices from different websites such as leetcode, hackerrank, etc..
+# scala-exercises
+Exercises from different websites such as leetcode, hackerrank, etc..
 
 
 
